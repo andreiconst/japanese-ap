@@ -1,0 +1,246 @@
+1	walking stick		1	
+2	a drop of		1	
+3	eyedropper		1	
+4	fishhook (straightened)		1	
+5	fishhook		1	
+6	clothes hanger		1	
+7	divining rod		2	
+8	animal legs		2	
+9	human legs		2	
+10	person with human leg		2	
+11	wind		2	
+12	bound up		2	
+13	bound up (on top)		2	
+14	horns		2	
+15	by one's side		2	
+16	saber		2	
+17	cliff		2	
+18	hood		2	
+19	umbrella		2	
+20	crown		2	
+21	top hat		2	
+22	belt		2	
+23	ice		2	
+24	ice (alt)		2	
+25	reclining		2	
+26	arm		2	
+27	elbow		2	
+28	person		2	
+29	plow		2	
+30	shovel		2	
+31	spear		2	
+32	snare		2	
+33	slingshot		2	
+34	stamp		2	
+35	chop-seal		2	
+36	chop-seal (on top)		2	
+37	fingerprint		2	
+38	sheaf		2	
+39	cornucopia		2	
+40	key		2	
+41	box		2	
+42	box (on left)		2	
+43	fencepost		2	
+44	drag		2	
+45	drag (alt)		2	
+46	tool		3	
+47	little		3	
+48	flood (on top)		3	
+49	flood (on bottom)		3	
+50	water		3	
+51	house		3	
+52	flower		3	
+53	turtle		3	
+54	pack of wild dogs		3	
+55	meeting		3	
+56	road		3	
+57	walking legs		3	
+58	arrow		3	
+59	stretch		3	
+60	towel		3	
+61	scorpion		3	
+62	pent in		3	
+63	cave		3	
+64	state of mind		3	
+65	fingers		3	
+66	genie in the bottle		3	
+67	wall		3	
+68	column		3	
+69	flag		3	
+70	broom		3	
+71	rake (alt)		3	
+72	broom (old)			
+73	pinnacle		3	
+74	cocoon		3	
+75	receipt		3	
+76	cornstalk		3	
+77	potato		3	
+78	shape		3	
+79	city walls		3	
+80	lock of hair		3	
+81	owl		3	
+82	breasts		4	
+83	game of cricket		4	
+84	flames		4	
+85	wooden pole		4	
+86	cow		4	
+87	whirlwind		4	
+88	taskmaster		4	
+89	quiver		4	
+90	fiesta		4	
+91	unhooked garment		4	
+92	rising cloud		4	
+93	heavens		4	
+94	porter		4	
+95	valentine		4	
+96	two hands		4	
+97	missile		4	
+98	vulture		4	
+99	infant		4	
+100	bone		4	
+101	chapel		4	
+102	assembly line		4	
+103	sunglasses with one lens out		4	
+104	rag		4	
+105	altar		4	
+106	rake		4	
+107	mop		4	
+108	salad		4	
+109	old man		4	
+110	paper punch		4	
+111	staples		4	
+112	waitress		4	
+113	earthworm		4	
+114	grow up		4	
+115	bushes		4	
+116	bushes (alt)		4	
+117	guillotine		4	
+118	sparkler		4	
+119	mosaic		4	
+120	hairpin		4	
+121	I Ching		4	
+122	eye (on its side)		5	
+123	tall		5	
+124	schoolhouse		5	
+125	parade		5	
+126	mending		5	
+127	zoo		5	
+128	zoo (on left)		5	
+129	cloak		5	
+130	apron		5	
+131	buckle		5	
+132	eel		5	
+133	piglets		5	
+134	spool		5	
+135	gully		5	
+136	wheat		5	
+137	grains of rice		5	
+138	saw		5	
+139	haystack		5	
+140	dollar sign		5	
+141	dollar sign (on bottom)		5	
+142	mailbox		5	
+143	silver (on left)		5	
+144	rice seedling		5	
+145	resin		5	
+146	celery		5	
+147	bonsai		5	
+148	sickness		5	
+149	teepee		5	
+150	purse		5	
+151	shelf		5	
+152	scrapbook		5	
+153	calling card		5	
+154	staple gun		5	
+155	tail feathers		5	
+156	mane		5	
+157	cactus		5	
+158	butcher		6	
+159	lidded crock		6	
+160	brush		6	
+161	brush (alt)		6	
+162	Thanksgiving		6	
+163	march		6	
+164	float		6	
+165	garment		6	
+166	sheep		6	
+167	wings		6	
+168	birdhouse		6	
+169	triceps		6	
+170	puzzle		6	
+171	banner		6	
+172	comb		6	
+173	quarter		6	
+174	scissors		6	
+175	maestro		6	
+176	silver		6	
+177	halo (on left)		6	
+178	Christmas tree		6	
+179	silage		6	
+180	Old West		6	
+181	apple		6	
+182	tub		6	
+183	row (double horizontal stroke)		6	
+184	mountain goat		6	
+185	tiger		6	
+186	golden calf		6	
+187	mortar		6	
+188	devil		7	
+189	gnats		7	
+190	sow		7	
+191	wool (alt)		7	
+192	fledgling		7	
+193	sunglasses		7	
+194	caverns		7	
+195	dog tag		7	
+196	animal tracks		7	
+197	hair		7	
+198	skunk		7	
+199	painting of a deer		7	
+200	streetwalker		7	
+201	mist		8	
+202	spring		8	
+203	weather		8	
+204	siesta		8	
+205	muzzle		8	
+206	turkey		8	
+207	outhouse		8	
+208	sieve		8	
+209	straw man		8	
+210	awl		8	
+211	bushel basket		8	
+212	upside down in a row		8	
+213	stitching		8	
+214	wealth		9	
+215	trucker’s convoy		9	
+216	double back		9	
+217	bucket of eels		9	
+218	piggy bank		9	
+219	jawbone		9	
+220	drum		9	
+221	red pepper		9	
+222	migrating ducks		9	
+223	Talking Cricket		9	
+224	condor		9	
+225	green onion		9	
+226	food (old)		9	
+227	acupuncturist		10	
+228	graveyard		10	
+229	turkey house		10	
+230	cabbage		10	
+231	scarecrow		10	
+232	locket		10	
+233	funnel		10	
+234	sheik		10	
+235	hill of beans		10	
+236	antique		11	
+237	mirror		11	
+238	Pegasus		11	
+239	mandala		11	
+240	angel		12	
+241	kazoo		12	
+242	shredder		12	
+243	pup tent		12	
+244	shoeshine		12	
+245	ketchup		13	
+246	grass skirt		13	
